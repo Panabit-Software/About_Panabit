@@ -37,7 +37,7 @@ For more product information, please visit our website: [www.panabit.com](http:/
 
 ## 📞 6. Contact Us 
 - **Website**: [www.panabit.com](http://www.panabit.com)  
-- **Phone**: 4007733996  
+- **Hotline**: 4007733996  
 - **Address**: Zhongguancun Software Park, Beijing / MAX Technology Park, Wuhan  
 - **Technical Support Email**: support@panabit.com
 
