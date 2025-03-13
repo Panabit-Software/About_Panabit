@@ -16,7 +16,7 @@ Founded in 2004 in Beijing, China, Panabit is a pioneer in network technology de
 | -------------------- | -------------------------- | ----------------------------------------------- |
 | Smart Gateway        | Panabit Series             | Traffic management / Security / Load balancing  |
 | Network Acceleration | SDWAN                      | Instant branch connectivity                     |
-| Wireless Coverage    | XiaoPai AP                 | Enterprise-level WiFi6 comprehensive solution   |
+| Wireless Coverage    | Panabit AP                 | Enterprise-level WiFi6 comprehensive solution   |
 | Traffic Analysis     | NTM System                 | Complete traffic traceability and forensics     |
 | Cloud Management     | SaaS Platform              | Remote centralized operations                   |
 
