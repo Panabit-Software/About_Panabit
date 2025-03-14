@@ -1,4 +1,4 @@
-<p>中文| <a href="README_EN.md"> English </a></p>
+<p>中文| <a href="README.md"> English </a></p>
 
 # 公司介绍
 
