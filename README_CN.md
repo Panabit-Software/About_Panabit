@@ -31,7 +31,7 @@
 
 ### Panabit产品家族
 
-![Product Line Diagram](assets/ProductLine_EN.png)
+![Product Line Diagram](assets/ProductLine_CN.png)
 
 ## ④ 🌟服务标杆案例 
 - **教育**：清华、北大等985高校全覆盖  
