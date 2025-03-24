@@ -24,7 +24,7 @@ For more product information, please visit our official website: [www.panabit.co
 ![Product Line Diagram](assets/ProductLine_EN.png)
 ## 🌟4. Benchmark Service Cases 
 - **Education**: Full coverage for top universities such as Tsinghua and Peking University  
-- **Government**: Digital projects by the National Cyberspace Administration and Digital Guangdong  
+- **Government**: Digital projects by the National Service Center and Digital Guangdong  
 - **Operators**: Backbone network construction in 22 provinces by China Mobile  
 - **Medical**: Network upgrades for top hospitals such as Xiehe Hospital  
 - **Finance**: Networking for financial institutions like the Agricultural Bank headquarters  
