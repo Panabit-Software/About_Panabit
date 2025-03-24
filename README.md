@@ -21,7 +21,7 @@ Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technolog
 | Cloud Management     | SaaS Platform              | Remote centralized operations                   |
 
 For more product information, please visit our website: [www.panabit.com](http://www.panabit.com)
-
+![Product Line Diagram](assets/ProductLine.png)
 ## 🌟4. Benchmark Service Cases 
 - **Education**: Full coverage for top universities such as Tsinghua and Peking University  
 - **Government**: Digital projects by the National Cyberspace Administration and Digital Guangdong  
