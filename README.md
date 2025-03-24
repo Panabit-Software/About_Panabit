@@ -10,7 +10,7 @@ Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technolog
 - **High-Speed Processing**: From gigabit to 400G throughput, meeting any scale of demand  
 - **Comprehensive Tracking**: 1:1 complete log retention, keeping you fully informed of network dynamics  
 - **Flexible Networking**: Innovative SDWAN technology, improving branch interconnection efficiency by 10×  
-- **Application Traffic Distribution**: Distribute traffic across multiple egress lines based on application identification to prioritize critical services 
+- **Application Traffic Distribution**: Balance traffic across multiple lines by application to prioritize critical services
 ## 📊3. Core Product Matrix 
 | **Product Category** | **Representative Product** | **Problem Solved**                              |
 | -------------------- | -------------------------- | ----------------------------------------------- |
