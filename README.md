@@ -20,8 +20,8 @@ Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technolog
 | Traffic Analysis     | NTM System                 | Complete traffic traceability and forensics     |
 | Cloud Management     | SaaS Platform              | Remote centralized operations                   |
 
-For more product information, please visit our website: [www.panabit.com](http://www.panabit.com)
-![Product Line Diagram](assets/ProductLine.png)
+For more product information, please visit our official website: [www.panabit.com](http://www.panabit.com)
+![Product Line Diagram](assets/ProductLine_EN.png)
 ## 🌟4. Benchmark Service Cases 
 - **Education**: Full coverage for top universities such as Tsinghua and Peking University  
 - **Government**: Digital projects by the National Cyberspace Administration and Digital Guangdong  
