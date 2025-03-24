@@ -29,6 +29,10 @@
 
 
 
+### Panabit产品家族
+
+![Product Line Diagram](assets/ProductLine_EN.png)
+
 ## ④ 🌟服务标杆案例 
 - **教育**：清华、北大等985高校全覆盖  
 - **政务**：国家网信办、数字广东等数字化项目  
