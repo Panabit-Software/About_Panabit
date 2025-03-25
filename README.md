@@ -36,8 +36,8 @@ For more product information, please visit our official website: [www.panabit.co
 - CNCERT network security emergency support unit  
 
 ## 📞 6. Contact Us 
-- **Website**: [www.panabit.com](http://www.panabit.com)  
+- **Official Website**: [www.panabit.com](http://www.panabit.com)  
 - **Hotline**: 4007733996  
-- **Address**: Zhongguancun Software Park, Beijing / MAX Technology Park, Wuhan  
+- **Address**: Zhongguancun Software Park, Beijing, China / MAX Technology Park, Wuhan, China      
 - **Technical Support Email**: support@panabit.com
 
