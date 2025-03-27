@@ -6,8 +6,7 @@
 Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technology dedicated to making network connections safer and more efficient through intelligent solutions. Our R&D center in Wuhan supports a service network covering 28 provinces in China and multiple countries overseas.
 
 ---
-👉[Explore Panabit Official Website](https://www.panabit.com)  
-
+👉[Explore Panabit Official Website](https://www.panabit.com)    
 👉[Download Corporate Brochure](Brochure)
 
 ---
