@@ -46,7 +46,7 @@ Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technolog
 
 ## 📞 6. Contact Us 
 - **Official Website**: [www.panabit.com](http://www.panabit.com)  
-- **Hotline**: +86-4007733996  
+- **Hotline**: +86-400-773-3996  
 - **Address**: Zhongguancun Software Park, Beijing, China / MAX Technology Park, Wuhan, China      
 - **Technical Support Email**: support@panabit.com
 
