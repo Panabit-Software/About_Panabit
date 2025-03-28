@@ -6,8 +6,8 @@
 Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technology dedicated to making network connections safer and more efficient through intelligent solutions. Our R&D center in Wuhan supports a service network covering 28 provinces in China and multiple countries overseas.
 
 ---
-👉[Explore Panabit Official Website](https://www.panabit.com)    
-👉[Download Corporate Brochure](Brochure)
+### 👉[Explore Panabit Official Website](https://www.panabit.com)    
+### 👉[Download Corporate Brochure](Brochure)
 
 ---
 
@@ -17,7 +17,8 @@ Founded in 2004 in Beijing, China, **Panabit** is a pioneer in network technolog
 ## 💡2. Core Technical Advantages 
 - **Accurate Recognition**: Over 95% application recognition accuracy—see every bit of your network  
 - **High-Speed Processing**: From 1Gbps to 400Gbps throughput, meeting any scale of demand  
-- **Full Log Retention**: 1:1 complete logging, providing comprehensive insights into network activities 
+- **Full Log Retention**
+: 1:1 complete logging, providing comprehensive insights into network activities 
 - **Flexible Networking**: Innovative SDWAN technology, improving branch interconnection efficiency by 10×  
 - **Application Traffic Distribution**: Balance traffic across multiple lines by application to prioritize critical services
 ## 📊3. Core Product Matrix 
